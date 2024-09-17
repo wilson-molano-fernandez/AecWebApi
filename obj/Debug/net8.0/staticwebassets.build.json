@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LEn7zHz19lPCONobJvq6W9P5goujI1Bkzz6YlvnlvIg=",
+  "Source": "arcWebApi",
+  "BasePath": "_content/arcWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
