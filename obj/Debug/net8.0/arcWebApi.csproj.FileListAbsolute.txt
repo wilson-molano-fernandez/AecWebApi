@@ -31,3 +31,4 @@
 /Users/wmolano/arcteryx/arcWebApi/obj/Debug/net8.0/arcWebApi.pdb
 /Users/wmolano/arcteryx/arcWebApi/obj/Debug/net8.0/arcWebApi.genruntimeconfig.cache
 /Users/wmolano/arcteryx/arcWebApi/obj/Debug/net8.0/ref/arcWebApi.dll
+/Users/wmolano/arcteryx/arcWebApi/obj/Debug/net8.0/arcWebApi.sourcelink.json

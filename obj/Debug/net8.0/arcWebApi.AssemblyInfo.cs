@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arcWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61850c059afb1fbe901b4bb1fa6b984ce954f170")]
 [assembly: System.Reflection.AssemblyProductAttribute("arcWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arcWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
