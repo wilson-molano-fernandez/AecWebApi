@@ -1,1 +1,15 @@
-Adding new content to file.txt
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+nameSuffix: -preprod
+namespace: demo-preprod
+
+resources:
+- ../../base
+
+patches:
+- path: deployment-patch.yaml
+
+images:
+- name: petstore-ref-arch
+  newName: 092223502519.dkr.ecr.us-west-2.amazonaws.com/omni-channel-platform
+  newTag:   petstore-ref-arch-abfc84f9635ce550fe92487d8610fe5d68fe90ca
