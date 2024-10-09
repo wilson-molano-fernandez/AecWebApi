@@ -12,4 +12,4 @@ patches:
 images:
 - name: petstore-ref-arch
   newName: 092223502519.dkr.ecr.us-west-2.amazonaws.com/omni-channel-platform
-  newTag: ref-arch-74413269-1530-4649-acfc-ec29e7170e7a
+  newTag: ref-arch-585a6707-6820-456a-9e3d-a88dcbf072ba
